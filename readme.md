@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Free:Wow!A new github team!oh rinlit i like it so much🥰*Repo pro max utrla super max for rinlit's team*</h1>
-<p>A Repo like repo for repo want to be a repo</p>
+<p>​​An astonishingly extraordinarily exceptionally overwhelmingly incredibly profoundly undeniably unmistakably universally timelessly strikingly remarkably uniquely breathtakingly dazzlingly radiantly vividly subtly quietly gently classically romantically poetically dramatically powerfully delicately structurally symmetrically perfectly flawlessly purely naturally spiritually soul-stirringly heartachingly deeply moving hauntingly mysteriously ethereally serenely majestically wild austerely ruggedly simply elegantly sophisticatedly richly vibrantly intensely beautiful Repo/p>
 
 **English** | [中文](./docs/README_zhCN.MD)
 
@@ -13,10 +13,13 @@
 (Todo:idk)
 
 ### Features
-(Todo:idk)
+1. Have a feature
+2. Not only have a ffeature
+3. Not not only have a fffeature
+4. Not not not only have a f**k
 
 ## 🪄 Usage
-(Todo:idk)
+
 
 Now you can learn more about this repo in [the online documentation](https://www.bilibili.com/video/BV1kW411m7VP/?vd_source=love-rin).
 
